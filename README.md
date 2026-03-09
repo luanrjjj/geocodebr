@@ -13,10 +13,9 @@ coverage](https://codecov.io/gh/ipeaGIT/geocodebr/branch/main/graph/badge.svg)](
 [![Lifecycle:
 experimental](https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg)](https://lifecycle.r-lib.org/articles/stages.html)
 
-O **{geocodebr}** é um pacote computacional para geolocalização de
+O **{geocodebr}** é um pacote computacional para geolicalização de
 endereços Brasileiros. O pacote oferece uma maneira simples e eficiente
-de geolocalizar dados sem limite de número de consultas capaz de 
-geolocalizar milhões de endereços em poucos minutos. O pacote é
+de geolocalizar dados sem limite de número de consultas. O pacote é
 baseado em conjuntos de dados espaciais abertos de endereços
 brasileiros, utilizando como fonte principal o Cadastro Nacional de
 Endereços para Fins Estatísticos (CNEFE). O CNEFE é
